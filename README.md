@@ -29,6 +29,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=flat&logo=apachekafka&logoColor=white)
 
 ---
 
